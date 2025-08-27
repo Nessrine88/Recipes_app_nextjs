@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --dark: #011627;
+  --pink: #E63964;
+  --light: #F1FAEE;
+  --oleo: 'Oleo Script', cursive;
+  --open: 'Open Sans', sans-serif;
+}
