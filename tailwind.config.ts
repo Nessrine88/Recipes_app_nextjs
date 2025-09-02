@@ -8,9 +8,16 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        colors: {
+        // Brand
+        primary: "#00C27A",
+        danger: "#FF4D4F",
+
+        // Neutral
+        text: "#1A1A1A",
+        "text-secondary": "#6B7280",
+        border: "#E5E7EB",
+        "background-light": "#F9FAFB",
       },
       fontFamily: {
         oleo: ["var(--oleo)"],

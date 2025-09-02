@@ -3,10 +3,18 @@
 @tailwind utilities;
 
 :root {
-  --dark: #011627;
-  --pink: #E63964;
-  --light: #F1FAEE;
-  --oleo: 'Oleo Script', cursive;
-  --open: 'Open Sans', sans-serif;
+  --primary: #00C27A;
+  --danger: #FF4D4F;
+  --success: #22C55E;
+
+  --text: #1A1A1A;
+  --text-secondary: #6B7280;
+  --border: #E5E7EB;
+  --background-light: #F9FAFB;
+  --white: #FFFFFF;
+
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-full: 9999px;
 }
 
