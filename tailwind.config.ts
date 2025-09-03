@@ -17,7 +17,6 @@ const config: Config = {
         text: "#1A1A1A",
         "text-secondary": "#6B7280",
         border: "#E5E7EB",
-        "background-light": "#F9FAFB",
       },
       fontFamily: {
         oleo: ["var(--oleo)"],
