@@ -15,7 +15,7 @@ const config: Config = {
 
         // Neutral
         text: "#1A1A1A",
-        "text-secondary": "#6B7280",
+        secondary: "#6B7280",
         border: "#E5E7EB",
       },
       fontFamily: {
